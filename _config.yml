@@ -1,4 +1,3 @@
-layout_spectrum: 0.754086897475645
 typography_spectrum: 0.061245321528986096
 color:
   brandStrength: 0.2478483864106238
@@ -6,9 +5,13 @@ color:
   saturation: 0.3910556167829782
   rhythmicContrast: 0.7959079467691481
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.754086897475645
 name: 'behind the lens '
+title: |
+  yhpargotohp 
+  anilag
